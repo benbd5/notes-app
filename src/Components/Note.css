@@ -1,0 +1,15 @@
+.cardNote {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 5px grey;
+  width: 20vmax;
+  word-break: break-all;
+  margin: 15px;
+}
+
+.test{
+  display: flex;
+}
+
+.favorite{
+  width: 20px;
+}
